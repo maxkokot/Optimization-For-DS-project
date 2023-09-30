@@ -10,7 +10,9 @@ Introduced code is aimed to demonstrate the algorithms' performance for real wor
 
 ## Contributors
 
-Kokot Maksim (ID: 2072065)
+Kokot Maksim
+
+UNIPD, 2023
 
 
 ## Usage
